@@ -1,4 +1,4 @@
-# facial-expression-recognition
+# Facial Expression Recognition
 
 This is the implementation for my undergraduate thesis *Feature-Level Joint Learning for Facial Expression Recognition* and the paper []().
 
