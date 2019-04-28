@@ -1,9 +1,9 @@
 # Facial Expression Recognition
 
 This is the implementation of part of my undergraduate thesis "Feature-Level Joint Learning for Facial Expression Recognition". **Notice**: I am still refactoring the code in Keras2.
-
 <!-- and the [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8528894) "Facial Expression Recognition with Identity and
 Emotion Joint Learning".  -->
+![cover](cover.png)
 
 ### Prerequisites
 * Python 3.6.5 | Anaconda
@@ -17,16 +17,18 @@ Emotion Joint Learning".  -->
 #### Run
 * Run `python main.py --aug=False` to train and evalute our model, with no data augmentation. You can also play with the parameters in `params.py` based on the paper (e.g., batch size).
 
+### Results
 
-<!-- ### Acknowledgement
+### Acknowledgement
 
-If you find this repository useful, please cite our paper:
+<!-- If you find this repository useful, please cite our paper:
 ```
-@inproceedings{huang2017cross,
-  title={Cross-domain sentiment classification via topic-related TrAdaBoost},
-  author={Huang, Xingchang and Rao, Yanghui and Xie, Haoran and Wong, Tak-Lam and Wang, Fu Lee},
-  booktitle={Thirty-First AAAI Conference on Artificial Intelligence},
-  year={2017}
+@article{li2018facial,
+title={Facial Expression Recognition with Identity and Emotion Joint Learning},
+author={Li, Ming and Xu, Hao and Huang, Xingchang and Song, Zhanmei and Liu, Xiaolin and Li, Xin},
+journal={IEEE Transactions on Affective Computing},
+year={2018},
+publisher={IEEE}
 }
 ``` -->
 
