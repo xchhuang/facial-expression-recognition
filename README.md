@@ -4,7 +4,7 @@ This is the implementation of part of my undergraduate thesis "Feature-Level Joi
 <!-- and the [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8528894) "Facial Expression Recognition with Identity and
 Emotion Joint Learning".  -->
 <!-- ![cover](cover.png) -->
-<img src="cover.png" alt="cover" width="850" height="200"/>
+<img src="cover.png" alt="cover" width="800" height="150"/>
 
 ### Prerequisites
 * Python 3.6.5 | Anaconda
