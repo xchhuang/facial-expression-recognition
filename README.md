@@ -3,7 +3,7 @@
 This is the implementation of part of my undergraduate thesis "Feature-Level Joint Learning for Facial Expression Recognition" and the [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8528894) "Facial Expression Recognition with Identity and
 Emotion Joint Learning".
 
-**Notice**: There is still some potential problems when I move the code to Keras2.
+**Notice**: I am still refactoring the code in Keras2.
 
 ### Prerequisites
 * Python 3.6.5 | Anaconda
