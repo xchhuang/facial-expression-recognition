@@ -13,7 +13,7 @@ Emotion Joint Learning". **Notice**: I am still refactoring the code in Keras2.
 * Download the FER+ dataset in [google drive]() and put it into the data folder.
 
 #### Run
-* Run `python main.py --aug=False` to train and evalute our model, with no data augmentation. You can play with the parameters in `params.py` based on the paper (e.g., batch size).
+* Run `python main.py --aug=False` to train and evalute our model, with no data augmentation. You can also play with the parameters in `params.py` based on the paper (e.g., batch size).
 
 
 <!-- ### Acknowledgement
